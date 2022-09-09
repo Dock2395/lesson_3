@@ -32,7 +32,9 @@ p.text{
 	color: yellowgreen;
 }
 
-
+.text .li{
+	color: rgb(193, 196, 167);
+}
 
 .text li {
 	color: red;
