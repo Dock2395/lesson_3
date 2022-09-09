@@ -1,0 +1,54 @@
+*{
+	font-family: Arial;
+}
+
+a{
+	color: orange;
+}
+
+.mark__testing{
+	background-color: bisque;
+}
+
+#prevalence{
+	color: green;
+}
+
+.text{
+	color: rgb(255, 0, 212);
+}
+
+.mark__testing,
+.text{
+	font-size: 12px ;
+}
+
+p.text{
+	color: blue;
+}
+
+.mark__testing.text{
+	background-color: white;
+	color: yellowgreen;
+}
+
+
+
+.text li {
+	color: red;
+}
+
+.text > li {
+	color: brown;
+}
+
+.text + p {
+	color: rgba(13, 147, 147, 0.779);
+}
+
+#treatment ~ p {
+	color: rgb(43, 171, 226);
+}
+
+
+
